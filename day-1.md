@@ -20,6 +20,6 @@ console.log(greeting);
 
 ## Image
 
-<img width="200" alt="Mona the Octocat" src="https://octodex.org/images/original.png">
+<img width="200" alt="Mona the Octocat" src="https://octodex.github.com/images/original.png">
 
 Описание: изображение добавлено тегом img.
