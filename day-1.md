@@ -17,3 +17,9 @@ console.log(greeting);
 ```
 
 Описание: блок кода оформлен тройными обратными кавычками.
+
+## Image
+
+<img width="200" alt="Mona the Octocat" src="https://octodex.org/images/original.png">
+
+Описание: изображение добавлено тегом img.
