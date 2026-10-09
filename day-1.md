@@ -8,3 +8,10 @@ Today I started my blog and learned Markdown basics.
 
 - [ ] Learn Markdown basics
 - [x] Create the repository
+
+## Code example
+
+```js
+const greeting = "Hello, Markdown!";
+console.log(greeting);
+```
