@@ -15,3 +15,5 @@ Today I started my blog and learned Markdown basics.
 const greeting = "Hello, Markdown!";
 console.log(greeting);
 ```
+
+Описание: блок кода оформлен тройными обратными кавычками.
